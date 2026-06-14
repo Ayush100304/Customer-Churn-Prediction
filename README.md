@@ -33,7 +33,6 @@ In this project I aim to perform customer survival analysis and build a model wh
 ├── survivemodel.pkl                    : Cox-proportional Hazard model
 ├── requirements.txt                    : requirements to run this model
 ├── Procfile                            : procfile for app deployment
-├── LICENSE.md                          : MIT License
 └── README.md                           : Report
 ```
 
